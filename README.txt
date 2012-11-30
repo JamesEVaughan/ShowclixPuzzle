@@ -1,0 +1,1 @@
+This is a solution to the programming puzzle found on Showclix's website. It is written and works in Java 7.
